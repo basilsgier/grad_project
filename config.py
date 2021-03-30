@@ -1,7 +1,7 @@
 import pymysql
 
 TOKEN = '1606894599:AAF2ejrSQiw02xQ7mKfX9w69_BnsTSC-Hwc'
-NKROG_URL = "https://f7ff73d86dba.ngrok.io"
+NKROG_URL = "https://34fc19a3a62b.ngrok.io"
 TELEGRAM_INIT_WEBHOOK_URL = 'https://api.telegram.org/bot{}/setWebhook?url={}/message'.format(TOKEN, NKROG_URL)
 TELEGRAM_SEND_MESSAGE_URL = "https://api.telegram.org/bot{}/sendMessage?chat_id={}&text={}"
 

@@ -194,8 +194,7 @@ def start(chat_id):
                                                                           "It seems you are already registered.\n"
                                                                           "Contact technical support if you want to change your registration\n"
                                                                           "Basil Sgier,  Phone: 0533013218\n"
-                                                                          "Abeer Dow,  Phone: 0547570104\n"
-                                                                          "Aseel Nassar,  Phone: 0509091207\n"
+                                                                          "Aseel Hussien,  Phone: 0505577407\n"
                                                                           "❤ Tam Team ❤"))
         else:
             requests.get(TELEGRAM_SEND_MESSAGE_URL.format(TOKEN, chat_id, "Are you a parent or a teacher?"))
