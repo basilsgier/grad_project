@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="781a6c06-ef04-44b5-8256-8dbd7b9839d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Final_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngrok-stable-windows-amd64/.ngrok.exe.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngrok-stable-windows-amd64/ngrok.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/botAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/botAPI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +11,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1qTZVG62deJkzMvS7HIb1rK5uPO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -82,18 +77,33 @@
       <option name="project" value="LOCAL" />
       <updated>1617105861208</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first files all working well need to add featuers !">
+      <created>1617129004515</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617129004516</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added logo">
+      <created>1617129083262</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617129083262</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first files all working well need to add featuers !" />
-    <option name="LAST_COMMIT_MESSAGE" value="first files all working well need to add featuers !" />
+    <MESSAGE value="added logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="added logo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1617129001670">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1617129082185">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1617129001670" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1617129082185" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1617128768785">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -110,13 +120,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617128768785" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1617129009475">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1617640377640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1617129009475" />
-    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617105915296">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1617640377640" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1617639626634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1617105915296" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1617639626634" />
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617640335797">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1617640335797" />
+    <state x="464" y="76" key="git4idea.branch.GitSmartOperationDialog" timestamp="1617640361622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="464" y="76" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1617640361622" />
   </component>
 </project>
